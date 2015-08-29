@@ -16,7 +16,6 @@ C:\Users\jeanpaul\Documents\Visual Studio 2013\Projects\Map Manager - Backup\UI\
 C:\Users\jeanpaul\Documents\Visual Studio 2013\Projects\GitProject\Administrador-de-Mapas\UI\DAL\bin\Debug\DAL.dll.config
 C:\Users\jeanpaul\Documents\Visual Studio 2013\Projects\GitProject\Administrador-de-Mapas\UI\DAL\bin\Debug\DAL.dll
 C:\Users\jeanpaul\Documents\Visual Studio 2013\Projects\GitProject\Administrador-de-Mapas\UI\DAL\bin\Debug\DAL.pdb
-C:\Users\jeanpaul\Documents\Visual Studio 2013\Projects\GitProject\Administrador-de-Mapas\UI\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
 C:\Users\jeanpaul\Documents\Visual Studio 2013\Projects\GitProject\Administrador-de-Mapas\UI\DAL\obj\Debug\DAL.Properties.Resources.resources
 C:\Users\jeanpaul\Documents\Visual Studio 2013\Projects\GitProject\Administrador-de-Mapas\UI\DAL\obj\Debug\DAL.csproj.GenerateResource.Cache
 C:\Users\jeanpaul\Documents\Visual Studio 2013\Projects\GitProject\Administrador-de-Mapas\UI\DAL\obj\Debug\DAL.dll

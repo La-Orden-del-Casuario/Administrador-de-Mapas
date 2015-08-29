@@ -162,7 +162,7 @@ namespace UI
 
                 UserID = _usuario.Id;
 
-                frmInicio Inicio = new frmInicio();
+                frmInicio Inicio = new frmInicio {User = _usuario.Nombre};
                 this.Hide();
                 Inicio.ShowDialog(this);
                 this.Close();

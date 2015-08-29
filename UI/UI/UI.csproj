@@ -157,11 +157,17 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>PM_DataSet.xsd</DependentUpon>
     </Compile>
-    <Compile Include="PantallasUsuarios\frmUsuarios.cs">
+    <Compile Include="PantallasUsuarios\AdminUsuarios.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="PantallasUsuarios\frmUsuarios.Designer.cs">
-      <DependentUpon>frmUsuarios.cs</DependentUpon>
+    <Compile Include="PantallasUsuarios\AdminUsuarios.Designer.cs">
+      <DependentUpon>AdminUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PantallasUsuarios\frmUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PantallasUsuarios\frmUsuario.Designer.cs">
+      <DependentUpon>frmUsuario.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -183,8 +189,11 @@
     <EmbeddedResource Include="PantallasNegocio\frmLocal.resx">
       <DependentUpon>frmLocal.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="PantallasUsuarios\frmUsuarios.resx">
-      <DependentUpon>frmUsuarios.cs</DependentUpon>
+    <EmbeddedResource Include="PantallasUsuarios\AdminUsuarios.resx">
+      <DependentUpon>AdminUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PantallasUsuarios\frmUsuario.resx">
+      <DependentUpon>frmUsuario.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\licenses.licx" />
     <EmbeddedResource Include="Properties\Resources.resx">
