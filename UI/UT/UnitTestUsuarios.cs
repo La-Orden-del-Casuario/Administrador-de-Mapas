@@ -57,7 +57,7 @@ namespace UT
 
             string password = "12345";
 
-            Usuario usuario = gestor.validarUsuario("hpottere@ucenfotec.ac.cr");
+            Usuario usuario = gestor.validarUsuario("revengeiscoming@gmail.com");
 
             string userPass = usuario.Password;
 
@@ -111,7 +111,7 @@ namespace UT
             try
             {
 
-                Usuario usuario = gestor.consultarUsuarioId(5);
+                Usuario usuario = gestor.consultarUsuarioId(2);
                 Usuario antiguoUsuario = usuario;
                 string password = PasswordHash.CreateHash("12345");
 
