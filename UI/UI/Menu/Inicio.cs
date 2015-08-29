@@ -14,10 +14,13 @@ namespace UI
 {
     public partial class frmInicio : DevExpress.XtraEditors.XtraForm
     {
+
+        public String User { get; set; }
         public frmInicio()
         {
             InitializeComponent();
             btnPerfil.AppearanceItem.Normal.BorderColor = Color.Black;
+            this.Text = this.Text + " de " + User;
 
 
         }

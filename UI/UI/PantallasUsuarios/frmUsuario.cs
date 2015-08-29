@@ -11,9 +11,9 @@ using DevExpress.XtraEditors;
 
 namespace UI.PantallasUsuarios
 {
-    public partial class frmUsuarios : DevExpress.XtraEditors.XtraForm
+    public partial class frmUsuario : DevExpress.XtraEditors.XtraForm
     {
-        public frmUsuarios()
+        public frmUsuario()
         {
             InitializeComponent();
         }
