@@ -1,0 +1,4 @@
+C:\Users\jeanpaul\Documents\Visual Studio 2013\Projects\Map Manager\UI\TIL\bin\x86\Debug\TIL.dll
+C:\Users\jeanpaul\Documents\Visual Studio 2013\Projects\Map Manager\UI\TIL\bin\x86\Debug\TIL.pdb
+C:\Users\jeanpaul\Documents\Visual Studio 2013\Projects\Map Manager\UI\TIL\obj\x86\Debug\TIL.dll
+C:\Users\jeanpaul\Documents\Visual Studio 2013\Projects\Map Manager\UI\TIL\obj\x86\Debug\TIL.pdb
