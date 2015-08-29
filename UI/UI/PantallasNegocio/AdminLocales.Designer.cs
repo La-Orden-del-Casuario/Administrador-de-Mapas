@@ -40,9 +40,9 @@
             this.ColDes = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.ColURL = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.plFooter = new System.Windows.Forms.Panel();
-            this.btnEditar = new DevExpress.XtraEditors.SimpleButton();
-            this.btnEliminar = new DevExpress.XtraEditors.SimpleButton();
             this.btnAgregar = new DevExpress.XtraEditors.SimpleButton();
+            this.btnEliminar = new DevExpress.XtraEditors.SimpleButton();
+            this.btnEditar = new DevExpress.XtraEditors.SimpleButton();
             this.plHead.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvLocales)).BeginInit();
             this.plFooter.SuspendLayout();
@@ -85,6 +85,7 @@
             this.dgvLocales.ReadOnly = true;
             this.dgvLocales.Size = new System.Drawing.Size(1169, 375);
             this.dgvLocales.TabIndex = 3;
+            this.dgvLocales.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvLocales_CellClick);
             // 
             // ColID
             // 
@@ -145,14 +146,14 @@
             this.plFooter.Size = new System.Drawing.Size(1180, 81);
             this.plFooter.TabIndex = 2;
             // 
-            // btnEditar
+            // btnAgregar
             // 
-            this.btnEditar.Location = new System.Drawing.Point(211, 30);
-            this.btnEditar.Name = "btnEditar";
-            this.btnEditar.Size = new System.Drawing.Size(96, 23);
-            this.btnEditar.TabIndex = 0;
-            this.btnEditar.Text = "Editar";
-            this.btnEditar.Click += new System.EventHandler(this.btnEditar_Click);
+            this.btnAgregar.Location = new System.Drawing.Point(21, 30);
+            this.btnAgregar.Name = "btnAgregar";
+            this.btnAgregar.Size = new System.Drawing.Size(96, 23);
+            this.btnAgregar.TabIndex = 2;
+            this.btnAgregar.Text = "Agregar";
+            this.btnAgregar.Click += new System.EventHandler(this.btnAgregar_Click);
             // 
             // btnEliminar
             // 
@@ -163,14 +164,14 @@
             this.btnEliminar.Text = "Eliminar";
             this.btnEliminar.Click += new System.EventHandler(this.btnEliminar_Click);
             // 
-            // btnAgregar
+            // btnEditar
             // 
-            this.btnAgregar.Location = new System.Drawing.Point(21, 30);
-            this.btnAgregar.Name = "btnAgregar";
-            this.btnAgregar.Size = new System.Drawing.Size(96, 23);
-            this.btnAgregar.TabIndex = 2;
-            this.btnAgregar.Text = "Agregar";
-            this.btnAgregar.Click += new System.EventHandler(this.btnAgregar_Click);
+            this.btnEditar.Location = new System.Drawing.Point(211, 30);
+            this.btnEditar.Name = "btnEditar";
+            this.btnEditar.Size = new System.Drawing.Size(96, 23);
+            this.btnEditar.TabIndex = 0;
+            this.btnEditar.Text = "Editar";
+            this.btnEditar.Click += new System.EventHandler(this.btnEditar_Click);
             // 
             // AdminLocales
             // 

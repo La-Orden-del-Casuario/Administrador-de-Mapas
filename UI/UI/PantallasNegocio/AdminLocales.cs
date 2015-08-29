@@ -97,13 +97,7 @@ namespace UI.Pantallas
 
 
 
-        private void dgvLocales_CellClick(object sender, DataGridViewCellEventArgs e) {
 
-        row = dgvLocales.CurrentRow.Index;
-        id = (int)dgvLocales[0, row].Value;
-        nombre = (string)dgvLocales[1, row].Value;
-
-        }
 
 
         private string getPreferencia(int p)
@@ -253,6 +247,15 @@ namespace UI.Pantallas
 
                 }
             }
+
+        }
+
+        private void dgvLocales_CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+            row = dgvLocales.CurrentRow.Index;
+            id = (int)dgvLocales[0, row].Value;
+            nombre = (string)dgvLocales[1, row].Value;
 
         }
 
