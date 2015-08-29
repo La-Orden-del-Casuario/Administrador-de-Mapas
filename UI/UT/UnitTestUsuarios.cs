@@ -61,7 +61,7 @@ namespace UT
 
             string userPass = usuario.Password;
 
-            bool match = PasswordHash.ValidatePassword(password, usuario.Password);
+            bool match = PasswordHash.ValidatePassword(password, userPass);
 
             Assert.IsTrue(match);
 

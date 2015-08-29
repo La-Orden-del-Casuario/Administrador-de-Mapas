@@ -40,7 +40,7 @@
             // txtCorreo
             // 
             this.txtCorreo.BackColor = System.Drawing.SystemColors.Info;
-            this.txtCorreo.ForeColor = System.Drawing.SystemColors.InactiveBorder;
+            this.txtCorreo.ForeColor = System.Drawing.Color.Black;
             this.txtCorreo.Location = new System.Drawing.Point(98, 26);
             this.txtCorreo.Name = "txtCorreo";
             this.txtCorreo.Size = new System.Drawing.Size(200, 21);

@@ -96,3 +96,16 @@ C:\Users\jeanpaul\Documents\Visual Studio 2013\Projects\GitProject\Administrador
 C:\Users\jeanpaul\Documents\Visual Studio 2013\Projects\GitProject\Administrador-de-Mapas\UI\UI\obj\Debug\UI.csproj.GenerateResource.Cache
 C:\Users\jeanpaul\Documents\Visual Studio 2013\Projects\GitProject\Administrador-de-Mapas\UI\UI\obj\Debug\UI.exe.licenses
 C:\Users\jeanpaul\Documents\Visual Studio 2013\Projects\GitProject\Administrador-de-Mapas\UI\UI\obj\Debug\UI.pdb
+C:\Users\jeanpaul\Documents\Visual Studio 2013\Projects\GitProject\Administrador-de-Mapas\UI\UI\bin\Debug\UI.exe.config
+C:\Users\jeanpaul\Documents\Visual Studio 2013\Projects\GitProject\Administrador-de-Mapas\UI\UI\bin\Debug\BaseLocal\PMDatabase.mdf
+C:\Users\jeanpaul\Documents\Visual Studio 2013\Projects\GitProject\Administrador-de-Mapas\UI\UI\bin\Debug\BaseLocal\PMDatabase_log.ldf
+C:\Users\jeanpaul\Documents\Visual Studio 2013\Projects\GitProject\Administrador-de-Mapas\UI\UI\bin\Debug\UI.exe
+C:\Users\jeanpaul\Documents\Visual Studio 2013\Projects\GitProject\Administrador-de-Mapas\UI\UI\bin\Debug\UI.pdb
+C:\Users\jeanpaul\Documents\Visual Studio 2013\Projects\GitProject\Administrador-de-Mapas\UI\UI\bin\Debug\BLL.dll
+C:\Users\jeanpaul\Documents\Visual Studio 2013\Projects\GitProject\Administrador-de-Mapas\UI\UI\bin\Debug\Entities.dll
+C:\Users\jeanpaul\Documents\Visual Studio 2013\Projects\GitProject\Administrador-de-Mapas\UI\UI\bin\Debug\TIL.dll
+C:\Users\jeanpaul\Documents\Visual Studio 2013\Projects\GitProject\Administrador-de-Mapas\UI\UI\bin\Debug\DAL.dll
+C:\Users\jeanpaul\Documents\Visual Studio 2013\Projects\GitProject\Administrador-de-Mapas\UI\UI\bin\Debug\BLL.pdb
+C:\Users\jeanpaul\Documents\Visual Studio 2013\Projects\GitProject\Administrador-de-Mapas\UI\UI\bin\Debug\Entities.pdb
+C:\Users\jeanpaul\Documents\Visual Studio 2013\Projects\GitProject\Administrador-de-Mapas\UI\UI\bin\Debug\TIL.pdb
+C:\Users\jeanpaul\Documents\Visual Studio 2013\Projects\GitProject\Administrador-de-Mapas\UI\UI\bin\Debug\DAL.pdb

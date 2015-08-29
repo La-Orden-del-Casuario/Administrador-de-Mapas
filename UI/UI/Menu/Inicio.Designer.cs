@@ -173,6 +173,7 @@
             this.MinimizeBox = false;
             this.Name = "frmInicio";
             this.Text = "Panel de Control";
+            this.Load += new System.EventHandler(this.frmInicio_Load);
             this.ResumeLayout(false);
 
         }

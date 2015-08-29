@@ -17,7 +17,6 @@ namespace UI
     public partial class Login : DevExpress.XtraEditors.XtraForm
     {
         private bool ValidUser { get; set; }
-        public int  UserID { get; set; }
 
         private bool validUser = false;
         private bool validPassword = false;
@@ -151,6 +150,7 @@ namespace UI
             {
 
                 MessageBox.Show("Error al intentar iniciar sesion. ", "Error.");
+                Console.WriteLine(ex.ToString());
 
             } 
         }
@@ -160,9 +160,10 @@ namespace UI
             if (ValidUser)
             {
 
-                UserID = _usuario.Id;
+                int _userID = _usuario.Id;
+                String _user = _usuario.Nombre;
 
-                frmInicio Inicio = new frmInicio {User = _usuario.Nombre};
+                frmInicio Inicio = new frmInicio {UserID = _userID, User = _user};
                 this.Hide();
                 Inicio.ShowDialog(this);
                 this.Close();

@@ -10,3 +10,4 @@ C:\Users\jeanpaul\Documents\Visual Studio 2013\Projects\GitProject\Administrador
 C:\Users\jeanpaul\Documents\Visual Studio 2013\Projects\GitProject\Administrador-de-Mapas\UI\TIL\bin\Debug\TIL.pdb
 C:\Users\jeanpaul\Documents\Visual Studio 2013\Projects\GitProject\Administrador-de-Mapas\UI\TIL\obj\Debug\TIL.dll
 C:\Users\jeanpaul\Documents\Visual Studio 2013\Projects\GitProject\Administrador-de-Mapas\UI\TIL\obj\Debug\TIL.pdb
+C:\Users\jeanpaul\Documents\Visual Studio 2013\Projects\GitProject\Administrador-de-Mapas\UI\TIL\obj\Debug\TIL.csprojResolveAssemblyReference.cache
