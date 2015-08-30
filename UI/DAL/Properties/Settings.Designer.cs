@@ -44,5 +44,16 @@ namespace DAL.Properties {
                 return ((string)(this["PM_ConnectionJean"]));
             }
         }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=JEAN0E4C\\SQLEXPRESS;Initial Catalog=BD_Mapa;Persist Security Info=Tru" +
+            "e;User ID=LaOrden;Password=***********")]
+        public string PM_Connection_LaOrden {
+            get {
+                return ((string)(this["PM_Connection_LaOrden"]));
+            }
+        }
     }
 }
